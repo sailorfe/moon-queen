@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#423263',
+    '#251d2d',
     '#ff0083',
     '#00a294',
     '#ec8300',
@@ -9,9 +9,9 @@ ansi = [
     '#ff69d3',
     '#d6c5d8',
 ]
-background = '#fcdeec'
+background = '#ffd7e5'
 brights = [
-    '#624a73',
+    '#4d3a5a',
     '#ff0083',
     '#00a294',
     '#ec8300',
@@ -20,15 +20,15 @@ brights = [
     '#ff69d3',
     '#e3d1e5',
 ]
-cursor_bg = '#ff83fc'
+cursor_bg = '#8ae0d8'
 cursor_border = '#fddbff'
 cursor_fg = '#fddbff'
-foreground = '#816297'
+foreground = '#674e78'
 scrollbar_thumb = '#ffbc4d'
 selection_bg = '#f19ec5'
 selection_fg = '#f2bfc9'
 
 [metadata]
-aliases = [ 'Serenity', ]
+aliases = []
 name = 'Serenity'
 authors = [ 'sailorfe', 'morgansleeper' ]
