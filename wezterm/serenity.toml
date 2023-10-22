@@ -1,0 +1,59 @@
+[colors]
+ansi = [
+    '#4d3a5a',
+    '#ff0083', 
+    '#00a294',
+    '#ec8300',
+    '#0c1eb8',
+    '#7800b8',
+    '#ff69d3',
+    '#fddbff',
+]
+background = '#ffe3f8'
+brights = [
+    '#4d3a5a',
+    '#ff0083', 
+    '#00a294',
+    '#ec8300',
+    '#0c1eb8',
+    '#7800b8',
+    '#ff69d3',
+    '#fddbff',
+]
+cursor_bg = '#DB92F4'
+cursor_border = '#DB92F4'
+cursor_fg = '#FDF298'
+foreground = '#674e78'
+selection_bg = '#FDF298'
+selection_fg = '#DB92F4'
+scrollbar_thumb = '#819EC0'
+split = '#819EC0'
+
+[colors.tab_bar]
+background = '#ffcaf2'
+
+[colors.tab_bar.active_tab]
+bg_color = '#ffb0eb'
+fg_color = '#4d3a5a'
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#ffcaf2'
+fg_color = '#4d3a5a'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#f8e3ff'
+fg_color = '#4d3a5a'
+italic = true
+[colors.new_tab]
+bg_color = '#ffcaf2'
+fg-color = '#4d3a5a'
+
+[colors.new_tab_hover]
+bg_color = '#f8e3ff'
+fg-color = '#4d3a5a'
+italic = true
+
+[metadata]
+aliases = []
+author = 'sailorfe'
+name = 'Serenity'

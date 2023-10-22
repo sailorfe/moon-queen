@@ -1,0 +1,60 @@
+[colors]
+ansi = [
+    '#1E1F31',
+    '#D90E7A',
+    '#37816f',
+    '#ffbc4d',
+    '#819EC0',
+    '#BF56CA',
+    '#FF84FC',
+    '#ffe3f8',
+]
+background = '#1b1b2c'
+brights = [
+    '#1E1F31',
+    '#D90E7A',
+    '#37816f',
+    '#ffbc4d',
+    '#819EC0',
+    '#BF56CA',
+    '#FF84FC',
+    '#ffe3f8',
+]
+cursor_bg = '#9697ea'
+cursor_border = '#9697ea'
+cursor_fg = '#fdffdc'
+foreground = '#fddbff'
+selection_bg = '#54002e'
+selection_fg = '#fdf298'
+scrollbar_thumb = '#af748d'
+split = '#af748d'
+
+[colors.tab_bar]
+background = '#11111c'
+
+[colors.tab_bar.active_tab]
+bg_color = '#38385b'
+fg_color = '#fddbff'
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#25253c'
+fg_color = '#fddbff'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#3e2e4c'
+fg_color = '#fddbff'
+italic = true
+
+[colors.new_tab]
+bg_color = '#25253c'
+fg_color = '#fddbff'
+
+[colors.new_tab_hover]
+bg_color = '#3e2e5c'
+gg-color = '#fddbff'
+italic = true
+
+[metadata]
+aliases = []
+author = 'sailorfe'
+name = 'Nehellenia'
