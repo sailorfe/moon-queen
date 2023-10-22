@@ -25,9 +25,9 @@ cursor_border = '#DB92F4'
 cursor_fg = '#FDF298'
 foreground = '#674e78'
 selection_bg = '#FDF298'
-selection_fg = '#DB92F4'
-scrollbar_thumb = '#819EC0'
-split = '#819EC0'
+selection_fg = '#916ea9'
+scrollbar_thumb = '#ffb0eb'
+split = '#ffb0eb'
 
 [colors.tab_bar]
 background = '#ffcaf2'
