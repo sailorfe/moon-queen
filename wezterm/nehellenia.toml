@@ -45,13 +45,13 @@ bg_color = '#3e2e4c'
 fg_color = '#fddbff'
 italic = true
 
-[colors.new_tab]
+[colors.tab_bar.new_tab]
 bg_color = '#25253c'
 fg_color = '#fddbff'
 
-[colors.new_tab_hover]
+[colors.tab_bar.new_tab_hover]
 bg_color = '#3e2e5c'
-gg-color = '#fddbff'
+fg_color = '#fddbff'
 italic = true
 
 [metadata]
