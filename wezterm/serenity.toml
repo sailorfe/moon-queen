@@ -20,11 +20,11 @@ brights = [
     '#ff69d3',
     '#fddbff',
 ]
-cursor_bg = '#DB92F4'
-cursor_border = '#DB92F4'
-cursor_fg = '#FDF298'
+cursor_bg = '#db92f4'
+cursor_border = '#db92f4'
+cursor_fg = '#fdf298'
 foreground = '#674e78'
-selection_bg = '#FDF298'
+selection_bg = '#fdf298'
 selection_fg = '#916ea9'
 scrollbar_thumb = '#ffb0eb'
 split = '#ffb0eb'
