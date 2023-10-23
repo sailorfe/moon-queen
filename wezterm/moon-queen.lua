@@ -1,12 +1,12 @@
 config.color_schemes = {
     ['Moon Queen Serenity'] = {
-        background      = '#FFE3F8',
-        cursor_bg       = '#DB92F4',
-        cursor_border   = '#DB92F4',
-        cursor_fg       = '#FDF298',
-        foreground      = '#674E78',
-        selection_bg    = '#FDF298',
-        selection_fg    = '#916EA9',
+        background      = '#ffe3f8',
+        cursor_bg       = '#db92f4',
+        cursor_border   = '#db92f4',
+        cursor_fg       = '#fdf298',
+        foreground      = '#674e68',
+        selection_bg    = '#fdf298',
+        selection_fg    = '#916ea9',
         scrollbar_thumb = '#ffb0eb',
         split           = '#ffb0eb',
         tab_bar = {
@@ -40,12 +40,12 @@ config.color_schemes = {
     },
     ['Moon Queen Nehellenia'] = {
         background      = '#1b1b2c',
-        cursor_bg       = '#9697EA',
+        cursor_bg       = '#9697ea',
         cursor_border   = '#9697ea',
-        cursor_fg       = '#FDFFDC',
+        cursor_fg       = '#fdffdc',
         foreground      = '#fddbff',
-        selection_bg    = '#B175AC',
-        selection_fg    = '#FEF6EB',
+        selection_bg    = '#b175ac',
+        selection_fg    = '#fef6eb',
         scrollbar_thumb = '#38385b',
         split           = '#38385b',
         tab_bar = {
@@ -74,7 +74,7 @@ config.color_schemes = {
             },
         },
         --                 black      red        green      yellow     blue       magenta    cyan       white
-        ansi            = {'#1E1F31', '#D90E7A', '#37816f', '#ffbc4d', '#819EC0', '#BF56CA', '#FF84FC', '#ffe3f8'},
-        brights         = {'#1E1F31', '#D90E7A', '#37816f', '#ffbc4d', '#819EC0', '#BF56CA', '#FF84FC', '#ffe3f8'},
+        ansi            = {'#1e1f31', '#d90e7a', '#37816f', '#ffbc4d', '#819ec0', '#bf56ca', '#ff84fc', '#ffe3f8'},
+        brights         = {'#1e1f31', '#d90e7a', '#37816f', '#ffbc4d', '#819ec0', '#bf56ca', '#ff84fc', '#ffe3f8'},
    },
 }
