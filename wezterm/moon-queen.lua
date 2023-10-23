@@ -1,5 +1,5 @@
 config.color_schemes = {
-    ['Serenity'] = {
+    ['Moon Queen Serenity'] = {
         background      = '#FFE3F8',
         cursor_bg       = '#DB92F4',
         cursor_border   = '#DB92F4',
@@ -38,7 +38,7 @@ config.color_schemes = {
         ansi            = {'#4d3a5a', '#ff0083', '#00a294', '#ec8300', '#0c1eb8', '#7800b8', '#ff69d3', '#fddbff'},
         brights         = {'#4d3a5a', '#ff0083', '#00a294', '#ec8300', '#0c1eb8', '#7800b8', '#ff69d3', '#fddbff'},
     },
-    ['Nehellenia'] = {
+    ['Moon Queen Nehellenia'] = {
         background      = '#1b1b2c',
         cursor_bg       = '#9697EA',
         cursor_border   = '#9697ea',

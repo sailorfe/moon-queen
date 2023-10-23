@@ -57,4 +57,5 @@ italic = true
 [metadata]
 aliases = []
 author = 'sailorfe'
-name = 'Serenity'
+name = 'Moon Queen Serenity'
+upstream = 'https://github.com/sailorfe/moon-queen/blob/main/wezterm/serenity.toml'
