@@ -59,4 +59,4 @@ italic = true
 aliases = []
 author = 'sailorfe'
 name = 'Moon Queen Nehellenia'
-upstream = 'https://github.com/sailorfe/moon-queen/blob/main/wezterm/nehellenia.toml'
+upstream = 'https://github.com/sailorfe/moon-queen/blob/main/colors/nehellenia.toml'
