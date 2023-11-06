@@ -47,7 +47,7 @@ fg_color = '#4d3a5a'
 italic = true
 
 [colors.tab_bar.new_tab]
-bg_color = '#ffcaf2'
+bg_color = '#ecb0ff'
 fg_color = '#4d3a5a'
 
 [colors.tab_bar.new_tab_hover]
