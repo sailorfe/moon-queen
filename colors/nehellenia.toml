@@ -7,7 +7,7 @@ ansi = [
     '#819ec0',
     '#bf56ca',
     '#ff84fc',
-    '#5f5f7b',
+    '#8c8399',
 ]
 background = '#1b1b2c'
 brights = [
@@ -18,7 +18,7 @@ brights = [
     '#819ec0',
     '#bf56ca',
     '#ff84fc',
-    '#5f5f7b',
+    '#8c8399',
 ]
 cursor_bg = '#9697ea'
 cursor_border = '#9697ea'
