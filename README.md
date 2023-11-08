@@ -1,12 +1,16 @@
 # moon queen
 
-day and night WezTerm themes pulled from [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
+pulled from [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
+
+#### Moon Queen Serenity
 
 ![Serenity](https://github.com/sailorfe/moon-queen/blob/main/assets/serenity.png)
 
+### Moon Queen Nehellenia
+
 ![Nehellenia](https://github.com/sailorfe/moon-queen/blob/main/assets/nehellenia.png)
 
-### install
+## install
 
 Save your desired `.toml` to `~/.config/wezterm/colors` as recommended in [the
 docmentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
