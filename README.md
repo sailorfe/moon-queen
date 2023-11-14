@@ -4,11 +4,11 @@ pulled from [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorM
 
 #### Moon Queen Serenity
 
-![Serenity](https://github.com/sailorfe/moon-queen/blob/main/assets/serenity.png)
+![Serenity](assets/serenity.png)
 
 ### Moon Queen Nehellenia
 
-![Nehellenia](https://github.com/sailorfe/moon-queen/blob/main/assets/nehellenia.png)
+![Nehellenia](assets/nehellenia.png)
 
 ## install
 
