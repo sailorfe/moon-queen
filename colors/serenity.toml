@@ -59,4 +59,4 @@ italic = true
 aliases = []
 author = 'sailorfe'
 name = 'Moon Queen Serenity'
-upstream = 'https://github.com/sailorfe/moon-queen/blob/main/colors/serenity.toml'
+upstream = 'https://codeberg.org/sailorfe/moon-queen'
