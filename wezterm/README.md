@@ -1,8 +1,6 @@
-# moon queen
+# moon queen for WezTerm
 
-pulled from [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
-
-#### Moon Queen Serenity
+### Moon Queen Serenity
 
 ![Serenity](assets/serenity.png)
 
