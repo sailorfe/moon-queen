@@ -59,4 +59,4 @@ italic = true
 aliases = []
 author = 'sailorfe'
 name = 'Moon Queen Nehellenia'
-upstream = 'https://codeberg.org/sailorfe/moon-queen'
+origin_url = 'https://codeberg.org/sailorfe/moon-queen'
