@@ -1,16 +1,13 @@
 # 🌙 Moon Queen
 
+<div align="center">
 theme pair pulled from
 [morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
-throughout my Linux + Apple ecosystem: WezTerm on macOS and i3, and iSH on iOS
-and iPadOS.
+![moon prism power makeup!!](assets/ep1-crop.png)
+![dead moon queen](assets/ep167-crop.png)
+</div>
 
-## 🎀 Screenshots
-
-![wezterm light](assets/wezterm-serenity.png)
-![wezterm dark](assets/wezterm-nehellenia.png)
-
-## 🪞 Palette
+## 🎀 Palette
 
 |              | serenity  | nehellenia |
 | ------------ | --------- | ---------- |
@@ -70,3 +67,9 @@ config {
 or something fancier, like timed switching. I scavenged [abzcoding](https://github.com/abzcoding/wezterm/blob/main/wezterm.lua)'s
 function for [my config](https://codeberg.org/sailorfe/dotfiles/raw/commit/8dc47502196d173b4d0df908c59a43258359ba64/wezterm.lua)
 
+## 🥮 Screenshots
+
+![wezterm light](assets/wezterm-serenity.png)
+![wezterm dark](assets/wezterm-nehellenia.png)
+![vim serenity xml](assets/vim-serenity.png)
+![vim nehellenia lua](assets/vim-nehellenia.png)
