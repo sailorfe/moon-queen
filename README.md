@@ -1,11 +1,21 @@
 # 🌙 Moon Queen
 
 <div align="center">
-theme pair pulled from
-[morgansleeper/SailorMoonR](https://github.com/morgansleeper/SailorMoonR)
-![moon prism power makeup!!](assets/ep1-crop.png)
-![dead moon queen](assets/ep167-crop.png)
+<p>theme pair pulled from <a href="https://github.com/morgansleeper/SailorMoonR">morgansleeper/SailorMoonR</a></p>
+<img src="assets/ep1-crop.png" alt="moon prism power makeup!!" width="500px">
+<img src="assets/ep167-crop.png" alt="dead moon queen" width="500px">
+<img src="assets/wezterm-serenity.png" alt="moon queen serenity" width="500px">
+<img src="assets/wezterm-nehellenia.png" alt="moon queen nehellenia" width="500px">
 </div>
+
+* [Palette](#Palette)
+* [Installation](#Installation)
+    * [Firefox](#Firefox)
+    * [Obsidian Borders](#Obsidian)
+    * Terminal
+        * [iSH](#iSH)
+        * [WezTerm](#WezTerm)
+* [Screenshots](#Screenshots)
 
 ## 🎀 Palette
 
@@ -59,17 +69,30 @@ Save your desired `.toml` to `~/.config/wezterm/colors` as recommended in [the
 docmentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
 You can configure it as simply as
 
-```
+```lua
 config {
     color_scheme: "Moon Queen Serenity",
 }
 ```
 or something fancier, like timed switching. I scavenged [abzcoding](https://github.com/abzcoding/wezterm/blob/main/wezterm.lua)'s
-function for [my config](https://codeberg.org/sailorfe/dotfiles/raw/commit/8dc47502196d173b4d0df908c59a43258359ba64/wezterm.lua)
+function for [my config](https://codeberg.org/sailorfe/dotfiles/raw/commit/8dc47502196d173b4d0df908c59a43258359ba64/wezterm.lua):
+
+```lua
+local function get_theme()
+    local _time = os.date("*t")
+    if _time.hour >= 1 and _time.hour < 9 then
+        return "Moon Queen Nehellenia"
+    elseif _time.hour >= 9 and _time.hour < 17 then
+        return "Moon Queen Serenity"
+    elseif _time.hour >= 17 and _time.hour < 24 or _time.hour >= 0 and _time.hour < 1 then
+        return "Moon Queen Nehellenia"
+    end
+end
+```
 
 ## 🥮 Screenshots
 
-![wezterm light](assets/wezterm-serenity.png)
-![wezterm dark](assets/wezterm-nehellenia.png)
-![vim serenity xml](assets/vim-serenity.png)
-![vim nehellenia lua](assets/vim-nehellenia.png)
+<div align="center">
+<img src="assets/vim-serenity.png" alt="vim serenity xml" width="800px"> <br>
+<img src="assets/vim-nehellenia.png" alt="vim nehellenia lua" width="800px">
+</div>
