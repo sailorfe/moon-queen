@@ -11,13 +11,14 @@ and iPadOS.
 ![wezterm dark](assets/wezterm-nehellenia.png)
 
 ## 🪞 Palette
+
 |              | serenity  | nehellenia |
 | ------------ | --------- | ---------- |
 | black        | `#4d3a5a` | `#25253c`  |
 | red          | `#ff0083` | `#d90e7a`  |
 | green        | `#00a294` | `#378a6f`  |
 | yellow       | `#ec8300` | `#ffbc4d`  |
-| blue         | `#0c1eb8` | `#819ec0`  |
+| blue         | `#0c1eb8` | `#67a8e4`  |
 | magenta      | `#78008b` | `#bf56ca`  |
 | cyan         | `#ff69d3` | `#ff84fc`  |
 | white        | `#bba6b9` | `#8c8399`  |
