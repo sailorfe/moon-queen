@@ -1,4 +1,4 @@
-# 🌙 Moon Queen
+# Moon Queen
 
 <div align="center">
 <p>theme pair pulled from <a href="https://github.com/morgansleeper/SailorMoonR">morgansleeper/SailorMoonR</a></p>
@@ -8,18 +8,9 @@
 <img src="assets/wezterm-nehellenia.png" alt="moon queen nehellenia" width="500px">
 </div>
 
-* [Palette](#Palette)
-* [Installation](#Installation)
-    * [Firefox](#Firefox)
-    * [Obsidian Borders](#Obsidian)
-    * Terminal
-        * [iSH](#iSH)
-        * [WezTerm](#WezTerm)
-* [Screenshots](#Screenshots)
+## Palette
 
-## 🎀 Palette
-
-|              | serenity  | nehellenia |
+|              | serenity 🌙🎀  | nehellenia 🌑🪞 |
 | ------------ | --------- | ---------- |
 | black        | `#4d3a5a` | `#25253c`  |
 | red          | `#ff0083` | `#d90e7a`  |
@@ -38,7 +29,7 @@
 | selection-bg | `#fdf298` | `#b175ac`  |
 | selection-fg | `#916ea9` | `#fef6eb`  |
 
-## 🐈‍⬛ Installation
+## Installation
 
 ### Firefox
 
@@ -90,7 +81,7 @@ local function get_theme()
 end
 ```
 
-## 🥮 Screenshots
+## Screenshots
 
 <div align="center">
 <img src="assets/vim-serenity.png" alt="vim serenity xml" width="800px"> <br>
