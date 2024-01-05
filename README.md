@@ -10,7 +10,7 @@
 
 ## Palette
 
-|              | serenity 🌙🎀  | nehellenia 🌑🪞 |
+|              | serenity  | nehellenia |
 | ------------ | --------- | ---------- |
 | black        | `#4d3a5a` | `#25253c`  |
 | red          | `#ff0083` | `#d90e7a`  |
@@ -19,15 +19,16 @@
 | blue         | `#0c1eb8` | `#67a8e4`  |
 | magenta      | `#78008b` | `#bf56ca`  |
 | cyan         | `#ff69d3` | `#ff84fc`  |
-| white        | `#bba6b9` | `#8c8399`  |
+| white        | `#fff1fb` | `#b7aedd`  |
 | bg-primary   | `#ffe3f8` | `#1b1b2c`  |
 | bg-secondary | `#ffcaf2` | `#11111c`  |
 | bg-tertiary  | `#fff1fb` | `#38385b`  |
 | bg-accent    | `#ecb0ff` | `#3e2e4c`  |
 | cursor       | `#db92f4` | `#9697ea`  |
-| foreground   | `#674e78` | `#fddbff`  |
+| foreground   | `#674e78` | `#d2c9da`  |
 | selection-bg | `#fdf298` | `#b175ac`  |
 | selection-fg | `#916ea9` | `#fef6eb`  |
+
 
 ## Installation
 

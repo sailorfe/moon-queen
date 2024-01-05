@@ -1,0 +1,62 @@
+[colors]
+ansi = [
+    '#4d3a5a',
+    '#ff0083', 
+    '#00a294',
+    '#ec8300',
+    '#0c1eb8',
+    '#7800b8',
+    '#ff69d3',
+    '#fff1fb',
+]
+background = '#ffe3f8'
+brights = [
+    '#4d3a5a',
+    '#ff0083', 
+    '#00a294',
+    '#ec8300',
+    '#0c1eb8',
+    '#7800b8',
+    '#ff69d3',
+    '#fff1fb',
+]
+cursor_bg = '#db92f4'
+cursor_border = '#db92f4'
+cursor_fg = '#fdf298'
+foreground = '#674e78'
+selection_bg = '#fdf298'
+selection_fg = '#916ea9'
+scrollbar_thumb = '#ffb0eb'
+split = '#ffb0eb'
+
+[colors.tab_bar]
+background = '#ffcaf2'
+
+[colors.tab_bar.active_tab]
+bg_color = '#ffe3f8'
+fg_color = '#4d3a5a'
+italic = true
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#ecb0ff'
+fg_color = '#4d3a5a'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#f8e3ff'
+fg_color = '#4d3a5a'
+italic = true
+
+[colors.tab_bar.new_tab]
+bg_color = '#ecb0ff'
+fg_color = '#4d3a5a'
+
+[colors.tab_bar.new_tab_hover]
+bg_color = '#f8e3ff'
+fg_color = '#4d3a5a'
+italic = true
+
+[metadata]
+aliases = []
+author = 'sailorfe'
+name = 'Moon Queen Serenity'
+origin_url = 'https://codeberg.org/sailorfe/moon-queen'
