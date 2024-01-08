@@ -43,9 +43,9 @@
  1. Install and enable [Borders](https://github.com/Akifyss/obsidian-border)
     and [Style Settings](https://github.com/mgmeyers/obsidian-style-settings).
  2. In Style Settings, import these .json files as follows:
-    - `serenity.json` &rarr; **Appearance (light mode)**
-    - `nehellenia.json` &rarr; **Appearance (dark mode)**
-    - `editor.json` &rarr; **Editor**
+    - `moon-queen-serenity.json` &rarr; **Appearance (light mode)**
+    - `moon-queen-nehellenia.json` &rarr; **Appearance (dark mode)**
+    - `editor-text.json` &rarr; **Editor > Text**
 
 ### Terminal
 
