@@ -15,8 +15,8 @@
 | black        | `#4d3a5a` | `#25253c`  |
 | red          | `#ff0083` | `#d90e7a`  |
 | green        | `#00a294` | `#378a6f`  |
-| yellow       | `#ec8300` | `#ffbc4d`  |
-| blue         | `#0c1eb8` | `#67a8e4`  |
+| yellow       | `#ec8300` | `#ff9500`  |
+| blue         | `#0c1eb8` | `#00a6e2`  |
 | magenta      | `#78008b` | `#bf56ca`  |
 | cyan         | `#ff69d3` | `#ff84fc`  |
 | white        | `#fff1fb` | `#b7aedd`  |
@@ -43,9 +43,9 @@
  1. Install and enable [Borders](https://github.com/Akifyss/obsidian-border)
     and [Style Settings](https://github.com/mgmeyers/obsidian-style-settings).
  2. In Style Settings, import these .json files as follows:
-    - `serenity.json` &rarr; **Appearance (light mode)**
-    - `nehellenia.json` &rarr; **Appearance (dark mode)**
-    - `editor.json` &rarr; **Editor**
+    - `moon-queen-serenity.json` &rarr; **Appearance (light mode)**
+    - `moon-queen-nehellenia.json` &rarr; **Appearance (dark mode)**
+    - `editor-text.json` &rarr; **Editor > Text**
 
 ### Terminal
 
@@ -66,19 +66,15 @@ config {
     color_scheme: "Moon Queen Serenity",
 }
 ```
-or something fancier, like timed switching. I scavenged [abzcoding](https://github.com/abzcoding/wezterm/blob/main/wezterm.lua)'s
-function for [my config](https://codeberg.org/sailorfe/dotfiles/raw/commit/8dc47502196d173b4d0df908c59a43258359ba64/wezterm.lua):
+or something fancier, like timed switching. Mine looks Like:
 
 ```lua
 local function get_theme()
     local _time = os.date("*t")
-    if _time.hour >= 1 and _time.hour < 9 then
-        return "Moon Queen Nehellenia"
-    elseif _time.hour >= 9 and _time.hour < 17 then
+    if _time.hour >= 9 and _time.hour < 16 then
         return "Moon Queen Serenity"
-    elseif _time.hour >= 17 and _time.hour < 24 or _time.hour >= 0 and _time.hour < 1 then
-        return "Moon Queen Nehellenia"
     end
+    return "Moon Queen Nehellenia"
 end
 ```
 
