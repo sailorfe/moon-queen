@@ -12,14 +12,14 @@
 
 |              | serenity  | nehellenia |
 | ------------ | --------- | ---------- |
-| black        | `#4d3a5a` | `#25253c`  |
+| black        | `#5a3a57` | `#25253c`  |
 | red          | `#ff0083` | `#d90e7a`  |
 | green        | `#00a294` | `#378a6f`  |
 | yellow       | `#ec8300` | `#ff9500`  |
 | blue         | `#0c1eb8` | `#00a6e2`  |
 | magenta      | `#78008b` | `#bf56ca`  |
 | cyan         | `#ff69d3` | `#ff84fc`  |
-| white        | `#fff1fb` | `#b7aedd`  |
+| white        | `#c09ebc` | `#b7aedd`  |
 | bg-primary   | `#ffe3f8` | `#1b1b2c`  |
 | bg-secondary | `#ffcaf2` | `#11111c`  |
 | bg-tertiary  | `#fff1fb` | `#38385b`  |
@@ -28,7 +28,6 @@
 | foreground   | `#674e78` | `#d2c9da`  |
 | selection-bg | `#fdf298` | `#b175ac`  |
 | selection-fg | `#916ea9` | `#fef6eb`  |
-
 
 ## Installation
 
