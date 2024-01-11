@@ -17,7 +17,7 @@
 | green        | `#00a294` | `#378a6f`  |
 | yellow       | `#ec8300` | `#ff9500`  |
 | blue         | `#0c1eb8` | `#00a6e2`  |
-| magenta      | `#78008b` | `#bf56ca`  |
+| magenta      | `#78008b` | `#8865ca`  |
 | cyan         | `#ff69d3` | `#ff84fc`  |
 | white        | `#c09ebc` | `#b7aedd`  |
 | bg-primary   | `#ffe3f8` | `#1b1b2c`  |
