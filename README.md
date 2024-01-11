@@ -79,9 +79,12 @@ end
 
 ## Screenshots
 
-<div align="center">
-<img src="assets/vim-serenity.png" alt="vim serenity html" width="600px">
-<img src="assets/spot-nehellenia.png" alt="nehellenia spotify-tui" width="600px"><br>
-<img src="assets/vim-nehellenia.png" alt="vim nehellenia lua" width="600px">
-<img src="assets/spot-serenity.png" alt="serenity spotify-tui" width="600px">
-</div>
+<table>
+    <tr>
+        <td><img src="assets/vim-serenity.png" alt="vim serenity html"></td>
+        <td><img src="assets/spot-nehellenia.png" alt="spotify-tui nehellenia"></td>
+    </tr>
+    <tr>
+        <td><img src="assets/vim-nehellenia.png" alt="vim nehellenia lua"></td>
+        <td><img src="assets/spot-serenity.png" alt="spotify-tui serenity"></td>
+</table>
