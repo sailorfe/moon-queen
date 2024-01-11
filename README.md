@@ -81,8 +81,8 @@ end
 
 <table>
     <tr>
-        <td><img src="assets/vim-serenity.png" alt="vim serenity html"></td>
-        <td><img src="assets/vim-nehellenia.png" alt="vim nehellenia lua"></td>
+        <td width="50%"><img src="assets/vim-serenity.png" alt="vim serenity html"></td>
+        <td width="50%"><img src="assets/vim-nehellenia.png" alt="vim nehellenia lua"></td>
     </tr>
     <tr>
         <td><img src="assets/spot-nehellenia.png" alt="spotify-tui nehellenia"></td>
