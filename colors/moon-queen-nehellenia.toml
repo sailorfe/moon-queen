@@ -2,10 +2,10 @@
 ansi = [
     '#25253c',
     '#d90e7a',
-    '#378a6f',
+    '#009f85',
     '#ff9500',
     '#00a6e2',
-    '#bf56ca',
+    '#8865ca',
     '#ff84fc',
     '#b7aedd',
 ]
@@ -13,10 +13,10 @@ background = '#1b1b2c'
 brights = [
     '#25253c',
     '#d90e7a',
-    '#378a6f',
+    '#009f85',
     '#ff9500',
     '#00a6e2',
-    '#bf56ca',
+    '#8865ca',
     '#ff84fc',
     '#b7aedd',
 ]
@@ -26,8 +26,8 @@ cursor_fg = '#fdffdc'
 foreground = '#d2c9da'
 selection_bg = '#b175ac'
 selection_fg = '#fef6eb'
-scrollbar_thumb = '#38385b'
-split = '#38385b'
+scrollbar_thumb = '#25253c'
+split = '#25253c'
 
 [colors.tab_bar]
 background = '#11111c'
