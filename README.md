@@ -80,6 +80,8 @@ end
 ## Screenshots
 
 <div align="center">
-<img src="assets/vim-serenity.png" alt="vim serenity sass" width="500px"> <br>
-<img src="assets/spot-nehellenia.png" alt="vim nehellenia spotify-tui" width="500px">
+<img src="assets/vim-serenity.png" alt="vim serenity html" width="700px">
+<img src="assets/spot-nehellenia.png" alt="nehellenia spotify-tui" width="700px"><br>
+<img src="assets/vim-nehellenia.png" alt="vim nehellenia lua" width="700px">
+<img src="assets/spot-serenity.png" alt="serenity spotify-tui" width="700px">
 </div>
