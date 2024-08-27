@@ -4,8 +4,6 @@
 <p>theme pair pulled from <a href="https://github.com/morgansleeper/SailorMoonR">morgansleeper/SailorMoonR</a></p>
 <img src="assets/ep1-crop.png" alt="moon prism power makeup!!" width="500px">
 <img src="assets/ep167-crop.png" alt="dead moon queen" width="500px">
-<img src="assets/wezterm-full.png" alt="moon queen full" width="500px">
-<img src="assets/wezterm-new.png" alt="moon queen new" width="500px">
 </div>
 
 ## Palette
@@ -29,3 +27,25 @@
 | cyan         | ![#ff69d3](https://via.placeholder.com/15/ff69d3/000000?text=+) `#ff69d3` | ![#ff84fc](https://via.placeholder.com/15/ff84fc/000000?text=+) `#ff84fc` |
 | white        | ![#c09ebc](https://via.placeholder.com/15/c09ebc/000000?text=+) `#c09ebc` | ![#b7aedd](https://via.placeholder.com/15/b7aedd/000000?text=+) `#b7aedd` |
 
+## Installation
+
+Save your desired `.toml` to `~/.config/wezterm/colors` as recommended in [the
+docmentation](https://wezfurlong.org/wezterm/config/appearance.html#defining-a-color-scheme-in-a-separate-file).
+You can configure it as simply as
+
+```lua
+config {
+    color_scheme: "Moon Queen Full",
+}
+```
+or something fancier, like timed switching. Mine looks Like:
+
+```lua
+local function get_theme()
+    local _time = os.date("*t")
+    if _time.hour >= 9 and _time.hour < 16 then
+        return "Moon Queen Full"
+    end
+    return "Moon Queen New"
+end
+```
