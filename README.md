@@ -43,7 +43,7 @@ or something fancier, like timed switching. Mine looks Like:
 ```lua
 local function get_theme()
     local _time = os.date("*t")
-    if _time.hour >= 9 and _time.hour < 16 then
+    if _time.hour >= 7 and _time.hour < 19 then
         return "Moon Queen Full"
     end
     return "Moon Queen New"
