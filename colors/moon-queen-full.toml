@@ -1,30 +1,30 @@
 [colors]
 ansi = [
-    '#5a3a57',
-    '#ff0083', 
+    '#674e78',
+    '#d90e7a', 
     '#00a294',
     '#ec8300',
-    '#0c1eb8',
-    '#7800b8',
+    '#0059dc',
+    '#862699',
     '#ff69d3',
     '#c09ebc',
 ]
 background = '#ffe3f8'
 brights = [
-    '#5a3a57',
-    '#ff0083', 
+    '#674e78',
+    '#d90e7a', 
     '#00a294',
     '#ec8300',
-    '#0c1eb8',
-    '#7800b8',
+    '#0059dc',
+    '#862699',
     '#ff69d3',
     '#c09ebc',
 ]
-cursor_bg = '#db92f4'
-cursor_border = '#db92f4'
+cursor_bg = '#b43797'
+cursor_border = '#b43797'
 cursor_fg = '#fdf298'
-foreground = '#674e78'
-selection_bg = '#fdf298'
+foreground = '#5a3a57'
+selection_bg = '#f2b8da'
 selection_fg = '#916ea9'
 scrollbar_thumb = '#ffb0eb'
 split = '#ffb0eb'
@@ -42,7 +42,7 @@ bg_color = '#ecb0ff'
 fg_color = '#4d3a5a'
 
 [colors.tab_bar.inactive_tab_hover]
-bg_color = '#f8e3ff'
+bg_color = '#edc7ee'
 fg_color = '#4d3a5a'
 italic = true
 
@@ -51,12 +51,12 @@ bg_color = '#ecb0ff'
 fg_color = '#4d3a5a'
 
 [colors.tab_bar.new_tab_hover]
-bg_color = '#f8e3ff'
+bg_color = '#edc7ee'
 fg_color = '#4d3a5a'
 italic = true
 
 [metadata]
 aliases = []
-author = 'sailorfe'
+author = 'kdlrose'
 name = 'Moon Queen Full'
-origin_url = 'https://github.com/sailorfe/moon-queen'
+origin_url = 'https://github.com/kdlrose/moon-queen'
