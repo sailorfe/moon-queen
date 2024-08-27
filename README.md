@@ -4,6 +4,8 @@
 <p>theme pair pulled from <a href="https://github.com/morgansleeper/SailorMoonR">morgansleeper/SailorMoonR</a></p>
 <img src="assets/ep1-crop.png" alt="moon prism power makeup!!" width="500px">
 <img src="assets/ep167-crop.png" alt="dead moon queen" width="500px">
+<img src="assets/full.png" alt="moon queen full" width="500px">
+<img src="assets/new.png" alt="moon queen new" width="500px">
 </div>
 
 ## Palette
