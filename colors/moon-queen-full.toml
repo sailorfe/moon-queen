@@ -9,7 +9,7 @@ ansi = [
     '#ff69d3',
     '#c09ebc',
 ]
-background = '#ffe3f8'
+background = '#fff1fb'
 brights = [
     '#674e78',
     '#d90e7a', 
@@ -26,19 +26,19 @@ cursor_fg = '#fdf298'
 foreground = '#5a3a57'
 selection_bg = '#f2b8da'
 selection_fg = '#916ea9'
-scrollbar_thumb = '#ffb0eb'
-split = '#ffb0eb'
+scrollbar_thumb = '#ffcaf2'
+split = '#ffcaf2'
 
 [colors.tab_bar]
-background = '#ffcaf2'
+background = '#ffe3f8'
 
 [colors.tab_bar.active_tab]
-bg_color = '#ffe3f8'
+bg_color = '#fff1fb'
 fg_color = '#4d3a5a'
 italic = true
 
 [colors.tab_bar.inactive_tab]
-bg_color = '#ecb0ff'
+bg_color = '#ffe3f8'
 fg_color = '#4d3a5a'
 
 [colors.tab_bar.inactive_tab_hover]
@@ -47,7 +47,7 @@ fg_color = '#4d3a5a'
 italic = true
 
 [colors.tab_bar.new_tab]
-bg_color = '#ecb0ff'
+bg_color = '#ffcaf2'
 fg_color = '#4d3a5a'
 
 [colors.tab_bar.new_tab_hover]
