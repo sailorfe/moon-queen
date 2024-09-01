@@ -12,10 +12,10 @@
 
 |              | 🌕 moon queen full                                                        | 🌑 moon queen new                                                         |
 | ------------ | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| bg-primary   | ![#ffe3f8](https://via.placeholder.com/15/ffe3f8/000000?text=+) `#ffe3f8` | ![#1b1b2c](https://via.placeholder.com/15/1b1b2c/000000?text=+) `#1b1b2c` |
-| bg-secondary | ![#ffcaf2](https://via.placeholder.com/15/ffcaf2/000000?text=+) `#ffcaf2` | ![#11111c](https://via.placeholder.com/15/11111c/000000?text=+) `#11111c` |
-| bg-tertiary  | ![#fff1fb](https://via.placeholder.com/15/fff1fb/000000?text=+) `#fff1fb` | ![#38385b](https://via.placeholder.com/15/38385b/000000?text=+) `#38385b` |
-| bg-accent    | ![#ecb0ff](https://via.placeholder.com/15/ecb0ff/000000?text=+) `#ecb0ff` | ![#3e2e4c](https://via.placeholder.com/15/3e2e4c/000000?text=+) `#3e2e4c` |
+| bg-primary   | ![#fff1fb](https://via.placeholder.com/15/fff1fb/000000?text=+) `#fff1fb` | ![#1b1b2c](https://via.placeholder.com/15/1b1b2c/000000?text=+) `#1b1b2c` |
+| bg-secondary | ![#ffe3f8](https://via.placeholder.com/15/ffe3f8/000000?text=+) `#ffe3f8` | ![#11111c](https://via.placeholder.com/15/11111c/000000?text=+) `#11111c` |
+| bg-tertiary  | ![#ffcaf2](https://via.placeholder.com/15/ffcaf2/000000?text=+) `#ffcaf2` | ![#38385b](https://via.placeholder.com/15/38385b/000000?text=+) `#38385b` |
+| bg-accent    | ![#edc7ee](https://via.placeholder.com/15/edc7ee/000000?text=+) `#edc7ee` | ![#3e2e4c](https://via.placeholder.com/15/3e2e4c/000000?text=+) `#3e2e4c` |
 | cursor       | ![#b43797](https://via.placeholder.com/15/b43797/000000?text=+) `#b43797` | ![#9697ea](https://via.placeholder.com/15/9697ea/000000?text=+) `#9697ea` |
 | foreground   | ![#5a3a57](https://via.placeholder.com/15/5a3a57/000000?text=+) `#5a3a57` | ![#d2c9da](https://via.placeholder.com/15/d2c9da/000000?text=+) `#d2c9da` |
 | selection-bg | ![#f2b8da](https://via.placeholder.com/15/f2b8da/000000?text=+) `#f2b8da` | ![#b175ac](https://via.placeholder.com/15/b175ac/000000?text=+) `#b175ac` |
