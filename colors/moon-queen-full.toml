@@ -11,14 +11,14 @@ ansi = [
 ]
 background = '#fff1fb'
 brights = [
-    '#674e78',
-    '#d90e7a', 
-    '#00a294',
-    '#ec8300',
-    '#0059dc',
-    '#862699',
-    '#ff69d3',
-    '#c09ebc',
+    '#9570b4',
+    '#fd30a0', 
+    '#30c3b4',
+    '#ff9730',
+    '#3085ff',
+    '#b130cb',
+    '#ff6eef',
+    '#e7ace3',
 ]
 cursor_bg = '#b43797'
 cursor_border = '#b43797'
