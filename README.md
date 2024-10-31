@@ -2,7 +2,11 @@
 
 <div align="center">
 <p>theme pair pulled from <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Sailor Moon</em> artbook posters</a> by Naoko Takeuchi</p>
-</div>
+
+<img src="assets/yume.png" alt="yume" width="360px">
+<img src="assets/mugen.png" alt="mugen" width="360px"><br>
+<img src="assets/dream.jpg" alt="dream" width="360px">
+<img src="assets/infnity.jpg" alt="infinity" width="360px"></div>
 
 ## Palette
 
