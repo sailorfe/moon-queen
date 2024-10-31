@@ -1,0 +1,62 @@
+[colors]
+ansi = [
+    '#5a4469',
+    '#fa4eb2',
+    '#164dce',
+    '#b41527', 
+    '#258847',
+    '#fa892b',
+    '#5b46c5',
+    '#7a6199',
+]
+background = '#fcdff8'
+brights = [
+    '#7a6987',
+    '#ff7fd4',
+    '#2f83e6',
+    '#e03c54', 
+    '#699c5b',
+    '#fda426',
+    '#8c80e2',
+    '#ab7fae',
+]
+cursor_bg = '#e871a9'
+cursor_border = '#e871a9'
+cursor_fg = '#f9f8fe'
+foreground = '#553f6d'
+selection_bg = '#f2b8da'
+selection_fg = '#b76dc2'
+scrollbar_thumb = '#f1cdf3'
+split = '#f1cdf3'
+
+[colors.tab_bar]
+background = '#fcc8ef'
+
+[colors.tab_bar.active_tab]
+bg_color = '#fcdff8'
+fg_color = '#553f6d'
+italic = true
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#fcc8ef'
+fg_color = '#553f6d'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#f99fdf'
+fg_color = '#553f6d'
+italic = true
+
+[colors.tab_bar.new_tab]
+bg_color = '#f1cdf3'
+fg_color = '#553f6d'
+
+[colors.tab_bar.new_tab_hover]
+bg_color = '#f99fdf'
+fg_color = '#553f6d'
+italic = true
+
+[metadata]
+aliases = []
+author = 'kdlrose'
+name = 'Yume'
+origin_url = 'https://github.com/kdlrose/moon-queen'
