@@ -1,0 +1,62 @@
+[colors]
+ansi = [
+    '#25253c',
+    '#ff0083',
+    '#009f85',
+    '#ff9500',
+    '#00a6e2',
+    '#8865ca',
+    '#ff84fc',
+    '#b7aedd',
+]
+background = '#1b1b2c'
+brights = [
+    '#63729b',
+    '#ff57b5',
+    '#57cdb4',
+    '#ffb857',
+    '#57d1ff',
+    '#b79dfa',
+    '#ffa6ff',
+    '#d3cdff',
+]
+cursor_bg = '#9697ea'
+cursor_border = '#9697ea'
+cursor_fg = '#d2c9da'
+foreground = '#fef6eb'
+selection_bg = '#7e6695'
+selection_fg = '#fdffdc'
+scrollbar_thumb = '#25253c'
+split = '#25253c'
+
+[colors.tab_bar]
+background = '#11111c'
+
+[colors.tab_bar.active_tab]
+bg_color = '#1b1b2c'
+fg_color = '#fddbff'
+italic = true
+
+[colors.tab_bar.inactive_tab]
+bg_color = '#38385b'
+fg_color = '#fddbff'
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = '#55558a'
+fg_color = '#fddbff'
+italic = true
+
+[colors.tab_bar.new_tab]
+bg_color = '#38385b'
+fg_color = '#fddbff'
+
+[colors.tab_bar.new_tab_hover]
+bg_color = '#55558a'
+fg_color = '#fddbff'
+italic = true
+
+[metadata]
+aliases = []
+author = 'sailorfe'
+name = 'Moon Queen New'
+origin_url = 'https://github.com/sailorfe/moon-queen'
