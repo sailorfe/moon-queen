@@ -7,7 +7,7 @@ ansi = [
     '#4a8325',
     '#fc8f0c',
     '#614abf',
-    '#aabcea',
+    '#b7beca',
 ]
 background = '#0d0917'
 brights = [
@@ -18,15 +18,15 @@ brights = [
     '#6ea722',
     '#fce815',
     '#8466f5',
-    '#fcfdff',
+    '#dbdee4',
 ]
 cursor_bg = '#3a306f'
 cursor_border = '#5c3e98'
 cursor_fg = '#b7beca'
 foreground = '#edf7f9'
-selection_bg = '#aabcea'
+selection_bg = '#b7beca'
 selection_fg = '#171029'
-scrollbar_thumb = '#0b1753'
+scrollbar_thumb = '#1e1a31'
 split = '#1a0c47'
 
 [metadata]
