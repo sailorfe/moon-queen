@@ -22,10 +22,10 @@ brights = [
 ]
 cursor_bg = '#3a306f'
 cursor_border = '#5c3e98'
-cursor_fg = '#fcfdff'
+cursor_fg = '#b7beca'
 foreground = '#edf7f9'
 selection_bg = '#aabcea'
-selection_fg = '#20093d'
+selection_fg = '#171029'
 scrollbar_thumb = '#0b1753'
 split = '#1a0c47'
 
