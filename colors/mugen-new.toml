@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+    '#2e273e',
+    '#fd8cda',
+    '#4d8fe5',
+    '#f72f39',
+    '#6ea722',
+    '#fce815',
+    '#8466f5',
+    '#e5eaec',
+]
+background = '#0d0917'
+brights = [
+    '#574f69',
+    '#fda8e1',
+    '#6aa4f8',
+    '#ff5450',
+    '#a6da62',
+    '#ffff92',
+    '#a889ff',
+    '#fbfbfc',
+]
+cursor_bg = '#3a306f'
+cursor_border = '#5c3e98'
+cursor_fg = '#b7beca'
+foreground = '#dcd7f0'
+selection_bg = '#b7beca'
+selection_fg = '#171029'
+scrollbar_thumb = '#1e1a31'
+split = '#1a0c47'
+
+[metadata]
+aliases = []
+author = 'kdlrose'
+name = 'Mugen'
+origin_url = 'https://github.com/kdlrose/moon-queen'
