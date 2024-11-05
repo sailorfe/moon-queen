@@ -3,10 +3,9 @@
 <div align="center">
 <p>theme pair pulled from <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Sailor Moon</em> artbook posters</a> by Naoko Takeuchi</p>
 
-<img src="assets/yume.png" alt="yume" width="50%">
-<img src="assets/cosmos.png" alt="mugen" width="50%"><br>
-<img src="assets/mugen-pale.png" alt="yume" width="50%">
-<img src="assets/mugen-dark.png" alt="yume" width="50%">
+<img src="assets/yume.png" alt="yume" width="100%">
+<img src="assets/cosmos.png" alt="mugen" width="100%">
+<img src="assets/mugen.png" alt="yume" width="100%">
 </div>
 
 ## Installation
