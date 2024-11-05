@@ -11,7 +11,7 @@ local function get_theme()
     elseif _time.hour >= 10 and _time.hour < 16 then
         return "Yume"
     elseif _time.hour >= 16 and _time.hour < 20 then
-        reutrn "Cosmos"
+        return "Cosmos"
     end
     return "Mugen Pale"
 end

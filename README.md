@@ -16,7 +16,7 @@ You can configure it as simply as
 
 ```lua
 config {
-    color_scheme: "Yume",
+    color_scheme: "Cosmos",
 }
 ```
 or something fancier, like timed switching. Mine looks Like:
@@ -24,8 +24,12 @@ or something fancier, like timed switching. Mine looks Like:
 ```lua
 local function get_theme()
     local _time = os.date("*t")
-    if _time.hour >= 8 and _time.hour < 18 then
+    if _time.hour >= 6 and _time.hour < 10 then
+        return "Cosmos"
+    elseif _time.hour >= 10 and _time.hour < 16 then
         return "Yume"
+    elseif _time.hour >= 16 and _time.hour < 10 then
+        return "Cosmos"
     end
     return "Mugen"
 end
