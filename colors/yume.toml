@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#4c2d59',
+    '#fdebfa',
     '#fc2fb2',
     '#134db1',
     '#de2230', 
     '#318509',
     '#fd7102',
     '#7441ba',
-    '#d6c1ec',
+    '#2B2133',
 ]
 background = '#fcdff8'
 brights = [
-    '#725b91',
+    '#fef7fd',
     '#ff70f3',
     '#3098d7',
     '#ff4f7e', 
     '#85bd12',
     '#fac529',
     '#8c4ee2',
-    '#e6d0f4',
+    '#534B59',
 ]
-cursor_bg = '#e871a9'
-cursor_border = '#f99fdf'
+cursor_bg = '#f99fdf'
+cursor_border = '#e871a9'
 cursor_fg = '#f9f8fe'
 foreground = '#553f6d'
 selection_bg = '#f2b8da' 
-selection_fg = '#b76dc2'
+selection_fg = '#2B2133'
 scrollbar_thumb = '#fcc8ef'
 split = '#f1cdf3'
 
