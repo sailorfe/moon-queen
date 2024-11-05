@@ -1,0 +1,36 @@
+[colors]
+ansi = [
+    '#37264e',
+    '#fa6bc5',
+    '#6bc1e2',
+    '#fa3a6b',
+    '#9bc056',
+    '#fce73e',
+    '#ac88e8',
+    '#d3cddd',
+]
+background = '#1f152d'
+brights = [
+    '#412e5b',
+    '#ffaae8',
+    '#a0d4ea',
+    '#fc8686',
+    '#b4d26e',
+    '#fefaa1',
+    '#b99dea',
+    '#f3ebfe',
+]
+cursor_bg = '#5957c2'
+cursor_border = '#6562b8'
+cursor_fg = '#d1d1f5'
+foreground = '#e8dff4'
+selection_bg = '#6f93cd'
+selection_fg = '#26353a'
+scrollbar_thumb = '#2d2753'
+split = '#2f2d42'
+
+[metadata]
+aliases = []
+author = 'kdlrose'
+name = 'Cosmos'
+origin_url = 'https://github.com/kdlrose/moon-queen'

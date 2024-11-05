@@ -17,7 +17,7 @@ brights = [
     '#f72f39',
     '#6ea722',
     '#fce815',
-    '#8c73db',
+    '#8466f5',
     '#fbfbfc',
 ]
 cursor_bg = '#3a306f'
@@ -32,5 +32,5 @@ split = '#1a0c47'
 [metadata]
 aliases = []
 author = 'kdlrose'
-name = 'Mugen'
+name = 'Mugen Dark'
 origin_url = 'https://github.com/kdlrose/moon-queen'
