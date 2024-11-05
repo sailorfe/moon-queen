@@ -1,7 +1,7 @@
 # Moon Queen
 
 <div align="center">
-<p>terminal themes from Naoko Takeuchi's rom <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Bishoujo Senshi Sailor Moon</em></a> artbooks</p>
+<p>terminal themes from Naoko Takeuchi's <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Bishoujo Senshi Sailor Moon</em></a> artbooks</p>
 
 <img src="assets/yume.png" alt="yume" width="720px">
 <img src="assets/cosmos.png" alt="mugen" width="720px">
