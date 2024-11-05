@@ -1,11 +1,11 @@
 # Moon Queen
 
 <div align="center">
-<p>theme pair pulled from <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Sailor Moon</em> artbook posters</a> by Naoko Takeuchi</p>
+<p>terminal themes from Naoko Takeuchi's rom <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Bishoujo Senshi Sailor Moon</em></a> artbooks</p>
 
-<img src="assets/yume.png" alt="yume" width="100%">
-<img src="assets/cosmos.png" alt="mugen" width="100%">
-<img src="assets/mugen.png" alt="yume" width="100%">
+<img src="assets/yume.png" alt="yume" width="720px">
+<img src="assets/cosmos.png" alt="mugen" width="720px">
+<img src="assets/mugen.png" alt="yume" width="720px">
 </div>
 
 ## Installation
