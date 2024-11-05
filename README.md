@@ -3,9 +3,9 @@
 <div align="center">
 <p>terminal themes from Naoko Takeuchi's <a href="https://missdream.org/raw-sailor-moon-downloads/manga/art-books/"><em>Bishoujo Senshi Sailor Moon</em></a> artbooks</p>
 
-<img src="assets/yume.png" alt="yume" width="480px">
-<img src="assets/cosmos.png" alt="mugen" width="480px">
-<img src="assets/mugen.png" alt="yume" width="480px">
+<img src="assets/yume.png" alt="yume">
+<img src="assets/cosmos.png" alt="mugen">
+<img src="assets/mugen.png" alt="yume">
 </div>
 
 ## Installation
