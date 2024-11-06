@@ -1,0 +1,27 @@
+{
+    "name": "Mugen",
+    "version": 1,
+    "shared": {
+        "backgroundColor": "#0d0917",
+        "colorPaletteOverrides": [
+            "#1e1a31",
+            "#fd8cda",
+            "#4d8fe5",
+            "#f72f39",
+            "#6ea722",
+            "#fce815",
+            "#8466f5",
+            "#e5eaec",
+            "#1e1a31",
+            "#fd8cda",
+            "#4d8fe5",
+            "#f72f39",
+            "#6ea722",
+            "#fce815",
+            "#8466f5",
+            "#e5eaec"
+        ],
+    "cusorColor": "#3a306f",
+    "foregroundColor": "#dcd7f8"
+    } 
+}

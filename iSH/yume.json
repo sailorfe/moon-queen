@@ -1,0 +1,27 @@
+{
+    "name": "Yume",
+    "version": 1,
+    "shared": {
+        "backgroundColor": "#fcdff8",
+        "colorPaletteOverrides": [
+            "#fdebfa",
+            "#fc2fb2",
+            "#134db1",
+            "#de2230", 
+            "#318509",
+            "#fd7102",
+            "#7441ba",
+            "#2B2133",
+            "#fef7fd",
+            "#ff70f3",
+            "#3098d7",
+            "#ff4f7e", 
+            "#85bd12",
+            "#fac529",
+            "#8c4ee2",
+            "#534B59"
+        ],
+    "cusorColor": "#f99fdf",
+    "foregroundColor": "#553f6d"
+    } 
+}
