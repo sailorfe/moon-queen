@@ -20,8 +20,8 @@ brights = [
     '#b99dea',
     '#f3ebfe',
 ]
-cursor_bg = '#5957c2'
-cursor_border = '#6562b8'
+cursor_border = '#5957c2'
+cursor_bg = '#6562b8'
 cursor_fg = '#d1d1f5'
 foreground = '#e8dff4'
 selection_bg = '#6f93cd'
@@ -31,6 +31,6 @@ split = '#2f2d42'
 
 [metadata]
 aliases = []
-author = 'kdlrose'
+author = 'sailorfe'
 name = 'Cosmos'
-origin_url = 'https://github.com/kdlrose/moon-queen'
+origin_url = 'https://github.com/sailorfe/moon-queen'

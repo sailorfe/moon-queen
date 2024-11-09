@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#1e1a31',
+    '#2e273e',
     '#fd8cda',
     '#4d8fe5',
     '#f72f39',
@@ -11,13 +11,13 @@ ansi = [
 ]
 background = '#0d0917'
 brights = [
-    '#2e273e',
-    '#fda8e1',
-    '#6aa4f8',
-    '#ff5450',
+    '#574f69',
+    '#fdbae8',
+    '#94bbef',
+    '#ff6d6a',
     '#a6da62',
     '#ffff92',
-    '#a889ff',
+    '#c2acff',
     '#fbfbfc',
 ]
 cursor_bg = '#3a306f'
@@ -31,6 +31,6 @@ split = '#1a0c47'
 
 [metadata]
 aliases = []
-author = 'kdlrose'
+author = 'sailorfe'
 name = 'Mugen'
-origin_url = 'https://github.com/kdlrose/moon-queen'
+origin_url = 'https://github.com/sailorfe/moon-queen'
