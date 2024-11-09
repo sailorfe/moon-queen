@@ -1,0 +1,27 @@
+{
+    "name": "Cosmos",
+    "version": 1,
+    "shared": {
+        "backgroundColor": "#1f152d",
+        "colorPaletteOverrides": [
+            "#37264e",
+            "#fa6bc5",
+            "#6bc1e2",
+            "#fa3a6b",
+            "#9bc856",
+            "#fce73e",
+            "#ac88e8",
+            "#d3cddd",
+            "#412e5b",
+            "#ffaae8",
+            "#a0d4ea",
+            "#fc8686",
+            "#bc426e",
+            "#fefaa1",
+            "#b99dea",
+            "#f3ebfe"
+        ],
+    "cusorColor": "#5957c2",
+    "foregroundColor": "#e8dff4"
+    } 
+}
